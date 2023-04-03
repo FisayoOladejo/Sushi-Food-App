@@ -2,50 +2,69 @@
     box-sizing:border-box;
     padding: 0;
     margin: 0;
+    
 }
 
 
 
 .image-fluid{
+    position: absolute;
     width: 1150px;
     height: 530px;
-    padding-top: 0%;
     padding-right:40px;
+    top: 10%;
+    left: 10% ;
+   
 }
 
 
 .login { 
     position: absolute;
     top: 55%;
-    left: 49%;
+    left: 45%;
     margin: -150px 0 0 -150px;
- 
+}
+
+
+.submits{ 
+  position: absolute; 
+  top: 55%;
+  left: 45%;
+}
+
+.menu{
+    width: 120%;
     
+    top: 55%;
+    left: 45%;
 }
 
 
-.submit{ 
-   
-    width: 1020px;
-    height:80px;
+.login p { 
+    color: #ffffff; 
+    font-size:300%; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.login h6 { 
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
     position: absolute;
-    top: 78%;
-    left: 54%;
-    margin: -150px 0 0 -150px;
-    font-style:oblique;
-}
-
-
-.login h4 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px;}
-.login h6 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px;}
+    font-size: 90%;
+    top: 75%;
+    left: 20%;
+     }
 
 .logo{
     border-radius: 50%;
     width: 3%;
     height: 5%;
     position: absolute;
-    top: 32%;
-    left: 63%;
+    top: 35%;
+    left:69%;
     
 }
- 
+ .login{
+    position: absolute;
+    left: 36%;
+ }

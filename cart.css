@@ -1,0 +1,91 @@
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+.cart{
+    position: absolute;
+    background-color:whitesmoke;
+    display: flex;
+    justify-content:flex-start;
+    width: 4%;
+    margin-top: 1.5%;
+    border-radius: 0%;
+    top: 5%;
+    left: 6%;
+    font-size: large;
+    font-weight:800;
+}
+
+.sidebar{ 
+    position: absolute;
+    display: flex;
+    justify-content:flex-start;
+    width: 3%;
+    height: 60%;
+    margin-top: 1.5%;
+    border-radius: 4%;
+    top: 5%;
+    left: 1%;
+    background-color: black;
+    box-shadow: 40px;
+}
+
+.sidebar img.H{
+    border-radius: 50%;
+    width: 50%;
+    height: 5%;
+    position: absolute;
+    top: 4%;
+    left: 30%;
+    background-color: azure;
+}
+.sidebar img.L{
+    border-radius: 50%;
+    width: 50%;
+    height: 5%;
+    position: absolute;
+    top: 24%;
+    left: 30%;
+    background-color: azure;
+}
+.sidebar img.F{
+    border-radius: 50%;
+    width: 50%;
+    height: 5%;
+    position: absolute;
+    bottom: 54%;
+    left: 30%;
+    background-color: azure;
+}
+
+.sidebar img.S{
+    border-radius: 50%;
+    width: 50%;
+    height: 5%;
+    position: absolute;
+    bottom: 34%;
+    left: 30%;
+    background-color: azure;
+}
+
+
+.sidebar img.C{
+    border-radius: 50%;
+    width: 50%;
+    height: 5%;
+    position: absolute;
+    bottom: 18%;
+    left: 30%;
+    background-color: azure;
+}
+
+.sidebar img.I{
+    border-radius: 50%;
+    width: 50%;
+    height: 5%;
+    position: absolute;
+    bottom: 2%;
+    left: 30%;
+    background-color: azure;
+}
