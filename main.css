@@ -68,3 +68,51 @@
     position: absolute;
     left: 36%;
  }
+
+.btn--primary {
+    position: absolute;
+    border-radius: none;
+    top: 55%;
+    left: 40%;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color:black;
+    background-color:#fff;
+    margin: 1rem 0;
+    white-space: nowrap;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+    width: 10%;
+}
+
+.btn--primary:hover {
+    background-color: whitesmoke;
+}
+
+.btn--secondry{
+    position: absolute;
+    border-radius: none;
+    top: 55%;
+    left: 52%;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color:black;
+    background-color:#fff;
+    margin: 1rem 0;
+    white-space: nowrap;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+    width: 10%;
+}
+
+.btn--secondry:hover {
+    background-color: whitesmoke;
+}
+
+
+
+ 
+
+  
