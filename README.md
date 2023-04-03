@@ -1,7 +1,7 @@
 **Introduction**
 ----
 This is a restaurant app
-# Consist of *Landing Page* 
+*Consist of *Landing Page* 
 # Menu
 # Cart
 *Resources*
