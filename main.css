@@ -72,12 +72,11 @@
 .btn--primary {
     position: absolute;
     border-radius: none;
-    top: 55%;
+    top: 50%;
     left: 40%;
     font-size: 1.4rem;
     font-weight: 600;
-    color:black;
-    background-color:#fff;
+    color:#fff;
     margin: 1rem 0;
     white-space: nowrap;
     text-transform: uppercase;
@@ -86,30 +85,22 @@
     width: 10%;
 }
 
-.btn--primary:hover {
-    background-color: whitesmoke;
-}
 
 .btn--secondry{
     position: absolute;
-    border-radius: none;
-    top: 55%;
-    left: 52%;
+    border-radius:10%;
+    top: 52.5%;
+    left: 45%;
     font-size: 1.4rem;
     font-weight: 600;
-    color:black;
-    background-color:#fff;
-    margin: 1rem 0;
-    white-space: nowrap;
+    color:#fff;
     text-transform: uppercase;
     cursor: pointer;
     text-decoration: none;
     width: 10%;
-}
+    
 
-.btn--secondry:hover {
-    background-color: whitesmoke;
-}
+
 
 
 
