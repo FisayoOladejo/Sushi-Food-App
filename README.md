@@ -1,14 +1,14 @@
-Sushi Restaurant APP
+#Sushi Restaurant APP
 ----
-This is a restaurant app that allow online oder placing and home delivery. 
+This is a restaurant App that allow online order of foods and home delivery. 
 
-Website Pages
+#Website Pages
 ----
 * Landing Page 
 * Menu
 * Cart
 ----
-*Resources*
+#Resources
 ----
 * HTML
 * CSS
